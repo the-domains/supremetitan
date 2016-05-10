@@ -1,7 +1,7 @@
 name: SupremeTitan
 favicon: null
-layout_spectrum: 0.9816903278697282
-typography_spectrum: 0.12561661866493523
+layout_spectrum: 0
+typography_spectrum: 0.25425
 cta:
   domain: null
   bucket: null
