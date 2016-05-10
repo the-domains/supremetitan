@@ -1,5 +1,4 @@
-favicon: null
-name: SupremeTitan
+layout_spectrum: 0.99575
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#434345'
     - '#fc8e7e'
   lightness: 0.6875
-typography_spectrum: 0.07035442
+typography_spectrum: 0.1090225
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.99575
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: SupremeTitan
