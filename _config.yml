@@ -1,0 +1,28 @@
+name: SupremeTitan
+favicon: null
+layout_spectrum: 0.9816903278697282
+typography_spectrum: 0.12561661866493523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.02473404724150896
+  lightness: 0.7224332622718066
+  saturation: 0.3722502742893994
+  rhythmicContrast: 0.6527665765024722
+purpose: []
