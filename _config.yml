@@ -1,4 +1,4 @@
-layout_spectrum: 0.99575
+name: SupremeTitan
 opengraph:
   image: null
   type: null
@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.02473404724150896
-  rhythmicContrast: 1
-  brandColors:
-    - '#ffffff'
-    - '#17140f'
-    - '#c0cad3'
-    - '#434345'
-    - '#fc8e7e'
+  brandStrength: 1
   lightness: 0.6875
+  brandColors:
+    - '#25282D'
+    - '#FEFFFF'
+    - '#A18E70'
+    - '#465A73'
+    - '#A9509D'
+  rhythmicContrast: 1
 typography_spectrum: 0.1090225
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: SupremeTitan
+layout_spectrum: 0.99575
