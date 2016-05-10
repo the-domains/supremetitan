@@ -1,4 +1,8 @@
-name: SupremeTitan
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -17,7 +21,7 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5
+  saturation: 0
   brandStrength: 1
   lightness: 0.6875
   brandColors:
@@ -28,13 +32,9 @@ color:
     - '#A9509D'
   rhythmicContrast: 1
 typography_spectrum: 0.1090225
+layout_spectrum: 0.99575
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.99575
+name: SupremeTitan
