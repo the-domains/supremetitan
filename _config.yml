@@ -1,9 +1,7 @@
-favicon: null
 name: Titan Gym Chicago
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.8190118
+typography_spectrum: 0.1090225
 collections:
   - index:
       path: /
@@ -16,25 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: 'Best gym in Chicago - Krav Maga, Martial Arts, Fitness, and Yoga'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 1
   brandColors:
     - '#25282D'
     - '#FEFFFF'
     - '#A18E70'
     - '#465A73'
     - '#A9509D'
+  brandStrength: 1
   lightness: 0.6875
-typography_spectrum: 0.1090225
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.8190118
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 1
+purpose: []
